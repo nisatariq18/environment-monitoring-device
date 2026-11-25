@@ -39,7 +39,7 @@ The ESP32 reads all four sensors continuously and prints timestamped readings to
 
 ## 🙏 Credits
 
-Built during the Learnabot robotics program.
+Built during the Learnabot robotics program by Zaib-un-nisa Tariq
 
 ## 📄 License
 
