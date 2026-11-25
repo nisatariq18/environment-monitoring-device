@@ -20,4 +20,27 @@ An ESP32-based device that measures local environmental conditions and streams r
 - Breadboards and jumper wires
 - USB power from a laptop
 
-## ⚙️ How It Wor
+## ⚙️ How It Works
+
+The ESP32 reads all four sensors continuously and prints timestamped readings to the Serial Monitor in real time. The readings include humidity, temperature, flame status, light level and air quality.
+
+## 📸 Build Photos
+
+<img src="IMG-20251113-WA0011%282%29.jpg" width="48%"> <img src="IMG-20251113-WA0012%284%29.jpg" width="48%">
+
+<img src="IMG-20251121-WA0004%281%29.jpg" width="48%">
+
+## 🚀 Getting Started
+
+1. Install the Arduino IDE with ESP32 board support
+2. Install the DHT sensor library
+3. Connect the sensors to the ESP32 as shown in the photos
+4. Upload the code and open the Serial Monitor
+
+## 🙏 Credits
+
+Built during the Learnabot robotics program.
+
+## 📄 License
+
+MIT
