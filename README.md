@@ -1,2 +1,3 @@
-# cubesat-environment-monitor
-An ESP32-based Environmental Monitoring CubeSat prototype that tracks localized atmospheric conditions. Features continuous real-time telemetry using a DHT sensor, Air Quality sensor, LDR light sensor, and Flame sensor on a breadboard layout for smart safety, pollution tracking, and space systems design.    
+ESP32-based environment monitoring device that measures temperature, humidity, air quality, light and flames in real time.
+
+Topics: esp32, iot, arduino, environment-monitoring, sensors, air-quality, embedded-systems.
